@@ -101,15 +101,10 @@ Hey there! I'm Praveen Kavindu, a passionate Software Engineering student at Ply
 <br>
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
+</div>
 
 ### 🌟 Highlighted Skills
 
