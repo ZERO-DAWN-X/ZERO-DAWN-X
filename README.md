@@ -21,16 +21,36 @@
 
 ## 🚀 About Me
 
-Crafting innovative digital experiences across multiple platforms while pursuing a Software Engineering degree at Plymouth University.
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
+Hey there! I'm Praveen Kavindu, a passionate Software Engineering student at Plymouth University with a knack for turning ideas into reality through code. 🎓💻
+
+🌟 My journey in tech is driven by an insatiable curiosity and a desire to push the boundaries of what's possible. From crafting sleek web applications to developing immersive mobile experiences and diving into the world of game development, I thrive on the diversity of the digital landscape.
+
+<details>
+  <summary><b>🧠 More About Me</b></summary>
+  <br>
+  <p>
+    Driven by curiosity, I push the boundaries of tech possibilities. My journey spans from crafting web applications to developing mobile experiences and exploring game development. As a UI/UX enthusiast, I believe in the power of design to enhance user experiences. Always learning, I embrace new technologies and methodologies, committed to innovation.
+  </p>
+</details>
+
+<div align="center">
+  <h3>💬 Let's Connect!</h3>
+  <p>
+    Open for collaborations, tech discussions, or just a friendly chat about code!
+  </p>
+  <p>
+    <a href="https://github.com/ZERO-DAWN-X" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <em>Remember: In the world of programming, every error is just an opportunity for a creative solution!</em>
 </p>
+<br>
 
 ## 💼 What I Do
 
@@ -49,7 +69,12 @@ Crafting innovative digital experiences across multiple platforms while pursuing
   </tr>
 </table>
 
+<br>
+<br>
+
 ## 🛠️ Languages and Tools
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -58,10 +83,23 @@ Crafting innovative digital experiences across multiple platforms while pursuing
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </p>
+
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -96,21 +134,6 @@ Crafting innovative digital experiences across multiple platforms while pursuing
 - 🧠 Implementing AI algorithms in practical applications
 - 🔐 Focusing on cybersecurity best practices in software development
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahan-ekanayake-3b6b9b1b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ZERO-DAWN-X"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:sahanekanayake@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<p align="center">
-  <i>"The only way to do great work is to love what you do."</i>
-</p>
 
 ---
 <div align="center">
@@ -131,4 +154,31 @@ Crafting innovative digital experiences across multiple platforms while pursuing
 
 <p align="center">
   Thanks for visiting my profile! Have a great day! 👋
+</p>
+
+---
+
+## 💖 Support This Project
+
+If you like this project and want to support it, consider:
+
+<div align="center">
+  <a href="https://github.com/ZERO-DAWN-X" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://patreon.com/PraveenKavindu" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://open.spotify.com/your-playlist" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <h1>The only way to do great work is to love what you do.</h1>
 </p>
