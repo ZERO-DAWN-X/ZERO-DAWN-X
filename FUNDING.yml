@@ -1,0 +1,28 @@
+# FUNDING.yml
+
+# Official funding platforms supported by GitHub
+
+github: [ZERO-DAWN-X]
+patreon: PraveenKavindu
+
+# Custom support options
+
+custom:
+  - "https://github.com/ZERO-DAWN-X"
+  - "https://patreon.com/PraveenKavindu"
+  - "https://open.spotify.com/user/your-spotify-username"  # Replace with your actual Spotify profile or playlist
+
+# Additional funding platforms (uncomment and add your username/project name as needed)
+
+# ko_fi: your_ko_fi_username
+# tidelift: your_tidelift_package
+# community_bridge: your_community_bridge_project
+# liberapay: your_liberapay_username
+# issuehunt: your_issuehunt_username
+# otechie: your_otechie_username
+# lfx_crowdfunding: your_lfx_crowdfunding_project
+# buy_me_a_coffee: your_buy_me_a_coffee_username
+
+# Funding page message (this will be displayed on your GitHub funding page)
+
+custom: ["Thank you for considering supporting my open-source work! Your contribution helps me dedicate more time to creating and maintaining projects that benefit the community. Every bit of support, whether through GitHub Sponsors, Patreon, or simply by using and sharing my projects, is deeply appreciated. Let's build amazing things together!"]
