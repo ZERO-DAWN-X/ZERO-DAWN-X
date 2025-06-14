@@ -1,13 +1,19 @@
-# ⚡ ZERO-DAWN-X ⚡
+<div align="center">
+
 ```
-████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
-╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
-   ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  
-   ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  
-   ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
-                            IS NOW... LOADING...
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  ████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗  ║
+║  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝  ║
+║     ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗    ║
+║     ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝    ║
+║     ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗  ║
+║     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝  ║
+║                                                                                      ║
+║                    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ INITIALIZED ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                     ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <div align="center">
   
@@ -17,45 +23,45 @@
 
 ---
 
-## 🌐 **NEURAL NETWORK INTERFACE** 
-
 <div align="center">
 
-```ascii
-     ╭─────────────────╮
-     │  SYSTEM STATUS  │
-     ╰─────────────────╯
-       🟢 ONLINE
-       🔥 PERFORMANCE: 99.9%
-       ⚡ CREATIVITY: MAX
-       🚀 INNOVATION: UNLIMITED
-```
+## ⚡ **NEURAL INTERFACE DASHBOARD** ⚡
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🎯 **CORE PROTOCOLS**
-```yaml
-Name: Praveen Kavindu
-Codename: ZERO-DAWN-X
-Status: Software Engineering Student @ Plymouth
-Mission: Transform Ideas → Digital Reality
-Specialization: Full-Stack Combat Ready
+```
+    ╭───────────── BIOMETRICS ─────────────╮
+    │                                      │
+    │  🧬 NAME: Praveen Kavindu            │
+    │  🔥 ALIAS: ZERO-DAWN-X               │
+    │  🎓 STATUS: Plymouth University      │
+    │  💻 CLASS: Software Engineer         │
+    │  🌟 RANK: Full-Stack Architect       │
+    │  ⚡ POWER: MAXIMUM OVERDRIVE          │
+    │                                      │
+    ╰──────────────────────────────────────╯
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ⚡ **POWER LEVELS**
 ```
-Full-Stack Development  ████████████ 95%
-Mobile Architecture     ██████████░░ 88%
-Game Engine Mastery     ████████░░░░ 82%
-AI Neural Networks      ██████░░░░░░ 65%
-UI/UX Quantum Design    ███████████░ 92%
+    ╭─────────── SKILL MATRIX ───────────╮
+    │                                    │
+    │  Frontend Mastery    ████████████  │
+    │  Backend Artillery   ███████████   │
+    │  Mobile Warfare      ██████████    │
+    │  Game Engineering    ████████      │
+    │  AI Neural Nets      ██████        │
+    │  UI/UX Quantum       ███████████   │
+    │  DevOps Systems      ████████      │
+    │  Innovation Level    ████████████  │
+    │                                    │
+    ╰────────────────────────────────────╯
 ```
 
 </td>
@@ -63,6 +69,8 @@ UI/UX Quantum Design    ███████████░ 92%
 </table>
 
 ---
+
+<div align="center">
 
 ## 🛠️ **TECH ARSENAL** ⚔️
 
@@ -90,6 +98,8 @@ UI/UX Quantum Design    ███████████░ 92%
 
 ---
 
+<div align="center">
+
 ## 📊 **BATTLE STATISTICS** ⚔️
 
 <div align="center">
@@ -101,97 +111,105 @@ UI/UX Quantum Design    ███████████░ 92%
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </div>
 
----
 
-## 🎮 **CURRENT MISSIONS** 
+---
 
 <div align="center">
 
-| 🎯 **ACTIVE QUESTS** | ⚡ **STATUS** | 🔥 **XP LEVEL** |
-|:---:|:---:|:---:|
-| AI Neural Network Integration | `IN PROGRESS` | ████████░░ 80% |
-| Cross-Platform Mobile Conquest | `ACTIVE` | ███████████ 95% |
-| Game Engine Optimization | `RESEARCHING` | ██████░░░░ 60% |
-| Cloud Architecture Mastery | `LEARNING` | ████████░░ 75% |
-| UI/UX Quantum Interfaces | `MASTERED` | ████████████ 98% |
+## 🏆 **ACHIEVEMENT HALL OF FAME** 🏆
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆%20FULL--STACK%20GLADIATOR-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/⚔️%20CODE%20WARRIOR-FF6B6B?style=for-the-badge&logo=battle&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🎮%20GAME%20DEV%20MASTER-00FFFF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/🧠%20AI%20PIONEER-9A4EF4?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/📱%20MOBILE%20ARCHITECT-32CD32?style=for-the-badge&logo=mobile&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🎨%20DESIGN%20WIZARD-FF69B4?style=for-the-badge&logo=palette&logoColor=white&labelColor=1a1a1a"/>
 
 </div>
 
 ---
 
-## 🌟 **LEGENDARY ACHIEVEMENTS**
-
 <div align="center">
 
-```
-🏆 FULL-STACK GLADIATOR      🎖️ MOBILE ARCHITECT         🎮 GAME DEV PIONEER
-🧠 AI RESEARCHER             🎨 UI/UX MASTER             🚀 PERFORMANCE OPTIMIZER
-```
+## ⚡ **NEURAL ACTIVITY HEATMAP** ⚡
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=💀%20CONTRIBUTION%20BATTLEFIELD%20DOMINATION&bg_color=0d1117&color=00ffff&line=ff6b6b&point=ffd700&area=true&hide_border=true&area_color=00ffff&height=300" width="100%"/>
 
 </div>
 
 ---
 
-## 💫 **QUANTUM CONNECTIONS**
-
 <div align="center">
+
+## 🌐 **QUANTUM COMMUNICATION CHANNELS** 🌐
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFFF)](https://github.com/ZERO-DAWN-X)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00FFFF)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=00FFFF)](mailto:praveenkavindudeveloper@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B&color=00FFFF)](#)
 
-</div>
+</td>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00FFFF)](https://linkedin.com/in/yourprofile)
+
+</td>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=00FFFF)](mailto:praveenkavindudeveloper@gmail.com)
+
+</td>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-9A4EF4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=9A4EF4&color=00FFFF)](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔮 **SYSTEM PHILOSOPHY**
+<div align="center">
+
+## 💭 **NEURAL PHILOSOPHY ENGINE** 💭
+
+</div>
 
 <div align="center">
 
 ```css
-.developer {
-  passion: infinite;
-  curiosity: always-learning;
-  innovation: boundary-pushing;
-  collaboration: team-player;
-  goal: transform-digital-world;
+.legendary_developer {
+  mindset: "growth-infinite";
+  passion: always_burning;
+  curiosity: never_ending;
+  innovation: boundary_destroyer;
+  collaboration: team_amplifier;
+  vision: "transform-digital-universe";
+  motto: "Code is poetry, bugs are puzzles, solutions are art";
+}
+
+/* Core Values */
+#zero-dawn-x::before {
+  content: "Dream → Code → Reality → Repeat";
+  animation: infinite-innovation 2s ease-in-out infinite;
 }
 ```
 
-> *"In the matrix of code, every bug is a puzzle waiting to be solved,  
-> every feature is a dream waiting to be built." - ZERO-DAWN-X*
-
 </div>
-
----
-
-## ⚡ **NEURAL ACTIVITY GRAPH**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFD700" width="100%"/>
-</div>
-
----
-
-## 🎯 **RECRUITMENT STATUS**
 
 <div align="center">
 
-```
-╭──────────────────────────────────────╮
-│          SEEKING MISSIONS            │
-├──────────────────────────────────────┤
-│  ✅ Open Source Collaborations       │
-│  ✅ Innovative Projects              │
-│  ✅ Tech Discussions                 │
-│  ✅ Mentorship Opportunities         │
-│  ✅ Game Development Teams           │
-╰──────────────────────────────────────╯
-```
-
-**CONTACT PROTOCOL INITIATED** 📡  
-*Ready to build the future together?*
+> 🚀 *"In the vast neural network of possibilities, every line of code is a synapse firing towards the future."*
+> 
+> **— ZERO-DAWN-X, Digital Architect of Tomorrow**
 
 </div>
 
@@ -199,22 +217,70 @@ UI/UX Quantum Design    ███████████░ 92%
 
 <div align="center">
 
+## 🎯 **RECRUITMENT PROTOCOL ACTIVATED** 🎯
+
+</div>
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="50%">
+
 ```
- ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
-██║     ██║   ██║██║  ██║█████╗      ██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝ 
-██║     ██║   ██║██║  ██║██╔══╝      ██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝  
-╚██████╗╚██████╔╝██████╔╝███████╗    ██║  ██║███████╗██║  ██║██████╔╝   ██║   
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝   
+╭───────────── SEEKING ─────────────╮
+│                                   │
+│  🚀 Revolutionary Projects        │
+│  🤝 Epic Collaborations          │
+│  🧠 Knowledge Exchange Missions   │
+│  🎮 Game Development Quests       │
+│  💡 Innovation Challenges         │
+│  🌟 Mentorship Adventures         │
+│                                   │
+╰───────────────────────────────────╯
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=00FFFF&style=for-the-badge&label=NEURAL+SCANS)
+</td>
+<td align="center" width="50%">
 
-**SYSTEM INITIALIZED SUCCESSFULLY** ✨  
-*Welcome to the future of development*
+```
+╭─────────── AVAILABLE FOR ───────────╮
+│                                     │
+│  ✅ Full-Stack Development          │
+│  ✅ Mobile App Architecture         │
+│  ✅ Game Development                │
+│  ✅ AI/ML Integration               │
+│  ✅ UI/UX Design Systems            │
+│  ✅ Technical Consultation          │
+│                                     │
+╰─────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ **Star this repository if you're ready to join the revolution!** ⭐
+<div align="center">
+
+```
+██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗    ████████╗ ██████╗     ██╗███╗   ██╗███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ ████████╗███████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝    ╚══██╔══╝██╔═══██╗    ██║████╗  ██║████╗  ██║██╔═══██╗██║   ██║██╔══██╗╚══██╔══╝██╔════╝
+██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝        ██║   ██║   ██║    ██║██╔██╗ ██║██╔██╗ ██║██║   ██║██║   ██║███████║   ██║   █████╗  
+██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝         ██║   ██║   ██║    ██║██║╚██╗██║██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║   ██║   ██╔══╝  
+██║  ██║███████╗██║  ██║██████╔╝   ██║          ██║   ╚██████╔╝    ██║██║ ╚████║██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║   ██║   ███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝          ╚═╝    ╚═════╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&animation=twinkling"/>
+
+<img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=00FFFF&style=for-the-badge&label=NEURAL+INTERFACE+SCANS"/>
+
+**⚡ SYSTEM STATUS: FULLY OPERATIONAL ⚡**
+
+*🌟 Ready to revolutionize the digital realm together? Let's build the impossible! 🌟*
+
+---
+
+<img src="https://img.shields.io/badge/⭐%20STAR%20THIS%20REPO%20TO%20JOIN%20THE%20REVOLUTION-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a1a"/>
 
 </div>
