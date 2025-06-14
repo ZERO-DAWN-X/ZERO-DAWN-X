@@ -100,15 +100,21 @@
 
 <div align="center">
 
-## 📊 **BATTLE STATISTICS** ⚔️
+## 📊 **BATTLE ANALYTICS & STATS** 📈
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6B6B"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-DAWN-X&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&ring_color=00FF41"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-DAWN-X&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF073A&fire=FFD700&currStreakLabel=00FF41" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=💀%20CODE%20DOMINATION%20HEATMAP%20💀&bg_color=0d1117&color=00ff41&line=ff073a&point=ffd700&area=true&hide_border=true&area_color=00ff41&height=350" width="100%"/>
 </div>
 
 
@@ -135,12 +141,6 @@
 ---
 
 <div align="center">
-
-## ⚡ **NEURAL ACTIVITY HEATMAP** ⚡
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=💀%20CONTRIBUTION%20BATTLEFIELD%20DOMINATION&bg_color=0d1117&color=00ffff&line=ff6b6b&point=ffd700&area=true&hide_border=true&area_color=00ffff&height=300" width="100%"/>
-
-</div>
 
 ---
 
@@ -179,28 +179,37 @@
 
 <div align="center">
 
-## 💭 **NEURAL PHILOSOPHY ENGINE** 💭
+## 💭 **DEVELOPER PHILOSOPHY ENGINE** 💭
 
 </div>
 
 <div align="center">
 
-```css
-.legendary_developer {
-  mindset: "growth-infinite";
-  passion: always_burning;
-  curiosity: never_ending;
-  innovation: boundary_destroyer;
-  collaboration: team_amplifier;
-  vision: "transform-digital-universe";
-  motto: "Code is poetry, bugs are puzzles, solutions are art";
+```javascript
+class LegendaryDeveloper {
+  constructor() {
+    this.mindset = "growth-infinite";
+    this.passion = "always-burning";
+    this.curiosity = "never-ending";
+    this.innovation = "boundary-destroyer";
+    this.collaboration = "team-amplifier";
+    this.vision = "transform-digital-universe";
+    this.motto = "Code is art, bugs are puzzles, solutions are masterpieces";
+  }
+
+  async achieveGreatness() {
+    while (this.alive) {
+      await this.dream();
+      await this.code();
+      await this.create();
+      await this.innovate();
+      await this.inspire();
+    }
+  }
 }
 
-/* Core Values */
-#zero-dawn-x::before {
-  content: "Dream → Code → Reality → Repeat";
-  animation: infinite-innovation 2s ease-in-out infinite;
-}
+const zeroDawnX = new LegendaryDeveloper();
+zeroDawnX.achieveGreatness(); // ♾️ Infinite loop of excellence
 ```
 
 </div>
@@ -216,47 +225,6 @@
 ---
 
 <div align="center">
-
-## 🎯 **RECRUITMENT PROTOCOL ACTIVATED** 🎯
-
-</div>
-
-<table align="center" width="80%">
-<tr>
-<td align="center" width="50%">
-
-```
-╭───────────── SEEKING ─────────────╮
-│                                   │
-│  🚀 Revolutionary Projects        │
-│  🤝 Epic Collaborations          │
-│  🧠 Knowledge Exchange Missions   │
-│  🎮 Game Development Quests       │
-│  💡 Innovation Challenges         │
-│  🌟 Mentorship Adventures         │
-│                                   │
-╰───────────────────────────────────╯
-```
-
-</td>
-<td align="center" width="50%">
-
-```
-╭─────────── AVAILABLE FOR ───────────╮
-│                                     │
-│  ✅ Full-Stack Development          │
-│  ✅ Mobile App Architecture         │
-│  ✅ Game Development                │
-│  ✅ AI/ML Integration               │
-│  ✅ UI/UX Design Systems            │
-│  ✅ Technical Consultation          │
-│                                     │
-╰─────────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
