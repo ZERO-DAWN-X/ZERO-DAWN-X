@@ -151,29 +151,30 @@
 </div>
 
 <table align="center">
-<tr>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFFF)](https://github.com/ZERO-DAWN-X)
-
-</td>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00FFFF)](https://linkedin.com/in/yourprofile)
-
-</td>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=00FFFF)](mailto:praveenkavindudeveloper@gmail.com)
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-9A4EF4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=9A4EF4&color=00FFFF)](#)
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ZERO-DAWN-X" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFFF" alt="GitHub">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lk.linkedin.com/in/praveen-kavindu-bb564a2b7" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00FFFF" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:praveenkavindudeveloper@gmail.com">
+        <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=00FFFF" alt="Email">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://praveenkavindu.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-9A4EF4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=9A4EF4&color=00FFFF" alt="Portfolio">
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
