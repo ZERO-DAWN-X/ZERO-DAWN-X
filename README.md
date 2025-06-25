@@ -1,7 +1,7 @@
 <div align="center">
   
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=PRAVEEN%20KAVINDU&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=Welcome%20To%20My%2Space&fontSize=40&fontColor=ffffff&animation=fadeIn" 
   alt="Header" 
   width="1000"
 />
@@ -42,32 +42,36 @@
 
   <br/>
 
-  <h2>🧠 AI & Machine Learning Research Focus</h2>
+  <div align="center">
+    <h2>AI & Machine Learning Research</h2>
+  </div>
   
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔬%20Current%20Research-00FF41?style=for-the-badge&logoColor=white" alt="Research"/>
-        <br/><br/>
-        🤖 <b>Advanced Neural Networks</b><br/>
-        🧠 <b>Deep Learning Architectures</b><br/>
-        🔍 <b>Computer Vision & NLP</b><br/>
-        ⚡ <b>AI-Powered Applications</b><br/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/💡%20Innovation%20Goals-FF6B6B?style=for-the-badge&logoColor=white" alt="Goals"/>
-        <br/><br/>
-        🚀 <b>Next-Gen AI Solutions</b><br/>
-        🎯 <b>Human-AI Collaboration</b><br/>
-        🌐 <b>Ethical AI Development</b><br/>
-        🔮 <b>Future Tech Exploration</b><br/>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <table width="100%">
+      <tr>
+        <td align="center" width="50%" style="padding: 20px;">
+          <img src="https://img.shields.io/badge/Current%20Research-2563EB?style=for-the-badge&logoColor=white" alt="Research"/>
+          <br/><br/>
+          <strong>Advanced Neural Networks</strong><br/>
+          <strong>Deep Learning Architectures</strong><br/>
+          <strong>Computer Vision & NLP</strong><br/>
+          <strong>AI-Powered Applications</strong><br/>
+        </td>
+        <td align="center" width="50%" style="padding: 20px;">
+          <img src="https://img.shields.io/badge/Innovation%20Goals-059669?style=for-the-badge&logoColor=white" alt="Goals"/>
+          <br/><br/>
+          <strong>Next-Gen AI Solutions</strong><br/>
+          <strong>Human-AI Collaboration</strong><br/>
+          <strong>Ethical AI Development</strong><br/>
+          <strong>Future Tech Exploration</strong><br/>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-  <br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Animation"/>
+  <div align="center" style="margin: 30px 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="60%" style="max-width: 400px; min-width: 300px;" alt="AI Animation"/>
+  </div>
 
 </div>
 
