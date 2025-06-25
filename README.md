@@ -1,68 +1,48 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  ████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗  ║
-║  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝  ║
-║     ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗    ║
-║     ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝    ║
-║     ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗  ║
-║     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝  ║
-║                                                                                      ║
-║                    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ INITIALIZED ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                     ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=PRAVEEN+KAVINDU;FULL-STACK+ARCHITECT;GAME+DEV+PIONEER;AI+NEURAL+ENGINEER)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Praveen+Kavindu;Full-Stack+Developer;AI+%26+Game+Development+Enthusiast" alt="Typing SVG" />
+  </h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=flat-square&logo=code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Plymouth%20University-green?style=flat-square&logo=graduation-cap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Full%20Stack-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
+  </p>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## ⚡ **NEURAL INTERFACE DASHBOARD** ⚡
-
-</div>
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" align="center">
+<td>
 
-```
-    ╭───────────── BIOMETRICS ─────────────╮
-    │                                      │
-    │  🧬 NAME: Praveen Kavindu            │
-    │  🔥 ALIAS: ZERO-DAWN-X               │
-    │  🎓 STATUS: Plymouth University      │
-    │  💻 CLASS: Software Engineer         │
-    │  🌟 RANK: Full-Stack Architect       │
-    │  ⚡ POWER: MAXIMUM OVERDRIVE          │
-    │                                      │
-    ╰──────────────────────────────────────╯
-```
+**🚀 Current Focus**
+- Building innovative web applications
+- Exploring AI and machine learning
+- Game development with Unity & Unreal
+- Mobile app development
+
+**💡 Interests**
+- Full-stack development
+- Artificial Intelligence
+- Game development
+- UI/UX design
 
 </td>
-<td width="50%" align="center">
+<td>
 
-```
-    ╭─────────── SKILL MATRIX ───────────╮
-    │                                    │
-    │  Frontend Mastery    ████████████  │
-    │  Backend Artillery   ███████████   │
-    │  Mobile Warfare      ██████████    │
-    │  Game Engineering    ████████      │
-    │  AI Neural Nets      ██████        │
-    │  UI/UX Quantum       ███████████   │
-    │  DevOps Systems      ████████      │
-    │  Innovation Level    ████████████  │
-    │                                    │
-    ╰────────────────────────────────────╯
-```
+**📊 Quick Stats**
+- 🎓 Student at Plymouth University
+- � Full-Stack Developer
+- � Game Development Enthusiast
+- 🤖 AI/ML Explorer
+- 🌱 Always learning new technologies
 
 </td>
 </tr>
@@ -70,186 +50,174 @@
 
 ---
 
-<div align="center">
-
-## 🛠️ **TECH ARSENAL** ⚔️
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **FRONTEND WEAPONS** 💥
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap&theme=dark" />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-### **BACKEND ARTILLERY** 🔥
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,php,mongodb,mysql,firebase&theme=dark" />
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-### **MOBILE STRIKE FORCE** 📱
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,reactnative&theme=dark" />
+### Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-### **GAME ENGINE CORE** 🎮
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark" />
+### Mobile & Game Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+</p>
 
-### **AI NEURAL MATRIX** 🧠
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-
-### **DEPLOYMENT SYSTEMS** 🚀
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github&theme=dark" />
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-
-## 📊 **BATTLE ANALYTICS & STATS** 📈
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-DAWN-X&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&ring_color=00FF41"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-DAWN-X&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF073A&fire=FFD700&currStreakLabel=00FF41" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=💀%20CODE%20DOMINATION%20HEATMAP%20💀&bg_color=0d1117&color=00ff41&line=ff073a&point=ffd700&area=true&hide_border=true&area_color=00ff41&height=350" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f7df1e&area=true&hide_border=true" width="100%"/>
 </div>
 
 
 ---
 
-<div align="center">
-
-## 🏆 **ACHIEVEMENT HALL OF FAME** 🏆
-
-</div>
+## 🏆 Achievements
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/🏆%20FULL--STACK%20GLADIATOR-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/⚔️%20CODE%20WARRIOR-FF6B6B?style=for-the-badge&logo=battle&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🎮%20GAME%20DEV%20MASTER-00FFFF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=1a1a1a"/>
-
-<img src="https://img.shields.io/badge/🧠%20AI%20PIONEER-9A4EF4?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/📱%20MOBILE%20ARCHITECT-32CD32?style=for-the-badge&logo=mobile&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🎨%20DESIGN%20WIZARD-FF69B4?style=for-the-badge&logo=palette&logoColor=white&labelColor=1a1a1a"/>
-
-</div>
-
----
-
-<div align="center">
-
----
-
-<div align="center">
-
-## 🌐 **QUANTUM COMMUNICATION CHANNELS** 🌐
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ZERO-DAWN-X" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFFF" alt="GitHub">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lk.linkedin.com/in/praveen-kavindu-bb564a2b7" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00FFFF" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:praveenkavindudeveloper@gmail.com">
-        <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&color=00FFFF" alt="Email">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://praveenkavindu.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-9A4EF4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=9A4EF4&color=00FFFF" alt="Portfolio">
-      </a>
-    </td>
-  </tr>
+  
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/�-Problem%20Solver-brightgreen?style=for-the-badge" alt="Problem Solver"/>
+  <br/><sub>Complex algorithm implementation</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack-blue?style=for-the-badge" alt="Full Stack"/>
+  <br/><sub>End-to-end development</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🎮-Game%20Developer-purple?style=for-the-badge" alt="Game Developer"/>
+  <br/><sub>Interactive experiences</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/�-AI%20Enthusiast-orange?style=for-the-badge" alt="AI Enthusiast"/>
+  <br/><sub>Machine learning projects</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/📱-Mobile%20Dev-red?style=for-the-badge" alt="Mobile Dev"/>
+  <br/><sub>Cross-platform apps</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🎨-UI/UX%20Designer-pink?style=for-the-badge" alt="UI/UX Designer"/>
+  <br/><sub>Beautiful interfaces</sub>
+</td>
+</tr>
 </table>
 
+</div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-## 💭 **DEVELOPER PHILOSOPHY ENGINE** 💭
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/ZERO-DAWN-X">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://lk.linkedin.com/in/praveen-kavindu-bb564a2b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:praveenkavindudeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://praveenkavindu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 💭 Development Philosophy
 
 <div align="center">
 
 ```javascript
-class LegendaryDeveloper {
-  constructor() {
-    this.mindset = "growth-infinite";
-    this.passion = "always-burning";
-    this.curiosity = "never-ending";
-    this.innovation = "boundary-destroyer";
-    this.collaboration = "team-amplifier";
-    this.vision = "transform-digital-universe";
-    this.motto = "Code is art, bugs are puzzles, solutions are masterpieces";
-  }
+const developer = {
+  name: "Praveen Kavindu",
+  role: "Full-Stack Developer",
+  mindset: "continuous-learning",
+  passion: ["coding", "innovation", "problem-solving"],
+  motto: "Building the future, one line of code at a time",
+  
+  currentlyLearning: ["AI/ML", "Advanced React", "Game Development"],
+  funFact: "I love turning coffee into code! ☕→💻"
+};
 
-  async achieveGreatness() {
-    while (this.alive) {
-      await this.dream();
-      await this.code();
-      await this.create();
-      await this.innovate();
-      await this.inspire();
-    }
-  }
-}
-
-const zeroDawnX = new LegendaryDeveloper();
-zeroDawnX.achieveGreatness(); // ♾️ Infinite loop of excellence
+console.log("Ready to create amazing things together! 🚀");
 ```
 
 </div>
 
-<div align="center">
-
-> 🚀 *"In the vast neural network of possibilities, every line of code is a synapse firing towards the future."*
-> 
-> **— ZERO-DAWN-X, Digital Architect of Tomorrow**
-
-</div>
-
 ---
 
 <div align="center">
-
----
-
-<div align="center">
-
-```
-██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗    ████████╗ ██████╗     ██╗███╗   ██╗███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ ████████╗███████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝    ╚══██╔══╝██╔═══██╗    ██║████╗  ██║████╗  ██║██╔═══██╗██║   ██║██╔══██╗╚══██╔══╝██╔════╝
-██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝        ██║   ██║   ██║    ██║██╔██╗ ██║██╔██╗ ██║██║   ██║██║   ██║███████║   ██║   █████╗  
-██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝         ██║   ██║   ██║    ██║██║╚██╗██║██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║   ██║   ██╔══╝  
-██║  ██║███████╗██║  ██║██████╔╝   ██║          ██║   ╚██████╔╝    ██║██║ ╚████║██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║   ██║   ███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝          ╚═╝    ╚═════╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&animation=twinkling"/>
-
-<img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=00FFFF&style=for-the-badge&label=NEURAL+INTERFACE+SCANS"/>
-
-**⚡ SYSTEM STATUS: FULLY OPERATIONAL ⚡**
-
-*🌟 Ready to revolutionize the digital realm together? Let's build the impossible! 🌟*
-
----
-
-<img src="https://img.shields.io/badge/⭐%20STAR%20THIS%20REPO%20TO%20JOIN%20THE%20REVOLUTION-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a1a"/>
-
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!;Always+open+to+new+opportunities+and+collaborations!" alt="Thanks" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&text=&fontSize=0&animation=fadeIn" alt="Footer"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  
 </div>
