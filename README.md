@@ -1,16 +1,68 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=PRAVEEN%20KAVINDU&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
   
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋+I'm+Praveen+Kavindu;Full-Stack+Developer;AI+%26+Game+Development+Enthusiast" alt="Typing SVG" />
-  </h1>
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=C4CBDA&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Research;Full-Stack+Software+Development;Technology+Innovation+and+Research;Building+Intelligent+Solutions" alt="Typing Animation" />
+</h2>
+
+  </div>
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=flat-square&logo=code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Plymouth%20University-green?style=flat-square&logo=graduation-cap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Full%20Stack-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
-  </p>
+  <div align="center" style="margin: 30px 0;">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/AI%20Research-0ea5e9?style=for-the-badge&logoColor=white" alt="AI Research"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/ML%20Engineering-10b981?style=for-the-badge&logoColor=white" alt="ML Engineering"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Full%20Stack-f59e0b?style=for-the-badge&logoColor=white" alt="Full Stack"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Plymouth%20University-6b7280?style=flat-square&logoColor=white" alt="University"/>
+    <img src="https://img.shields.io/badge/Software%20Engineer-6b7280?style=flat-square&logoColor=white" alt="Engineer"/>
+    <img src="https://img.shields.io/badge/Game%20Developer-6b7280?style=flat-square&logoColor=white" alt="Game Dev"/>
+    <img src="https://img.shields.io/badge/Tech%20Innovator-6b7280?style=flat-square&logoColor=white" alt="Innovator"/>
+  </div>
+
+  <br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Neural Network Animation"/>
+
+  <br/>
+
+  <h2>🧠 AI & Machine Learning Research Focus</h2>
+  
+  <table align="center" width="90%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🔬%20Current%20Research-00FF41?style=for-the-badge&logoColor=white" alt="Research"/>
+        <br/><br/>
+        🤖 <b>Advanced Neural Networks</b><br/>
+        🧠 <b>Deep Learning Architectures</b><br/>
+        🔍 <b>Computer Vision & NLP</b><br/>
+        ⚡ <b>AI-Powered Applications</b><br/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/💡%20Innovation%20Goals-FF6B6B?style=for-the-badge&logoColor=white" alt="Goals"/>
+        <br/><br/>
+        🚀 <b>Next-Gen AI Solutions</b><br/>
+        🎯 <b>Human-AI Collaboration</b><br/>
+        🌐 <b>Ethical AI Development</b><br/>
+        🔮 <b>Future Tech Exploration</b><br/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Animation"/>
 
 </div>
 
