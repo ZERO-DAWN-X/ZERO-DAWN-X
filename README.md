@@ -1,6 +1,11 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=PRAVEEN%20KAVINDU&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=PRAVEEN%20KAVINDU&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+  alt="Header" 
+  width="1000"
+/>
+
   
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=C4CBDA&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Research;Full-Stack+Software+Development;Technology+Innovation+and+Research;Building+Intelligent+Solutions" alt="Typing Animation" />
