@@ -80,30 +80,30 @@
 ## 👨‍💻 About Me
 
 <table>
-<tr>
-<td>
+  <tr>
+    <td valign="top" width="50%">
 
-**🚀 Current Focus**
-- Building innovative web applications
-- Exploring AI and machine learning
-- Game development with Unity & Unreal
-- Mobile app development
+### 🚀 Current Focus
+- Developing modern web applications  
+- Researching AI and machine learning  
+- Creating immersive games with Unity and Unreal  
+- Building intuitive mobile apps  
 
-**💡 Interests**
-- Full-stack development
-- Artificial Intelligence
-- Game development
-- UI/UX design
+### 💡 Interests  
+- Full-stack software engineering  
+- Artificial intelligence and data science  
+- Game design and interactive media  
+- Clean and user-focused UI/UX  
 
 </td>
-<td>
+<td valign="top" width="50%">
 
-**📊 Quick Stats**
-- 🎓 Student at Plymouth University
-- � Full-Stack Developer
-- � Game Development Enthusiast
-- 🤖 AI/ML Explorer
-- 🌱 Always learning new technologies
+### 📌 Quick Snapshot  
+- Student at **Plymouth University**  
+- Passionate full-stack developer  
+- Game development hobbyist  
+- Exploring intelligent systems and ML  
+- Lifelong learner in tech and design  
 
 </td>
 </tr>
@@ -157,24 +157,6 @@
 </p>
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZERO-DAWN-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO-DAWN-X&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERO-DAWN-X&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f7df1e&area=true&hide_border=true" width="100%"/>
-</div>
-
 
 ---
 
@@ -250,24 +232,45 @@
 
 ---
 
-## 💭 Development Philosophy
+## Development Philosophy
 
 <div align="center">
-
-```javascript
-const developer = {
-  name: "Praveen Kavindu",
-  role: "Full-Stack Developer",
-  mindset: "continuous-learning",
-  passion: ["coding", "innovation", "problem-solving"],
-  motto: "Building the future, one line of code at a time",
   
-  currentlyLearning: ["AI/ML", "Advanced React", "Game Development"],
-  funFact: "I love turning coffee into code! ☕→💻"
-};
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/Core%20Values-2563EB?style=for-the-badge&logoColor=white" alt="Core Values"/>
+        <br/><br/>
+        <strong>Continuous Learning</strong><br/>
+        <strong>Innovation First</strong><br/>
+        <strong>Quality Code</strong><br/>
+        <strong>User Experience</strong><br/>
+      </td>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/Current%20Focus-059669?style=for-the-badge&logoColor=white" alt="Current Focus"/>
+        <br/><br/>
+        <strong>AI & Machine Learning</strong><br/>
+        <strong>Advanced React</strong><br/>
+        <strong>Game Development</strong><br/>
+        <strong>Full-Stack Solutions</strong><br/>
+      </td>
+      <td align="center" width="33%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/Mission-f59e0b?style=for-the-badge&logoColor=white" alt="Mission"/>
+        <br/><br/>
+        <strong>Build the Future</strong><br/>
+        <strong>Solve Real Problems</strong><br/>
+        <strong>Create Impact</strong><br/>
+        <strong>Inspire Innovation</strong><br/>
+      </td>
+    </tr>
+  </table>
 
-console.log("Ready to create amazing things together! 🚀");
-```
+  <div style="margin: 40px 0;">
+    <h3 style="color: #1f2937; font-weight: 600; margin-bottom: 15px;">Building the future, one line of code at a time</h3>
+    <p style="color: #6b7280; font-size: 16px; max-width: 600px; margin: 0 auto;">
+      Passionate about creating intelligent solutions that make a difference. Always exploring new technologies and pushing the boundaries of what's possible.
+    </p>
+  </div>
 
 </div>
 
@@ -275,10 +278,12 @@ console.log("Ready to create amazing things together! 🚀");
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!;Always+open+to+new+opportunities+and+collaborations!" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=C4CBDA&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+Let's+build+something+amazing+together;Always+open+to+new+opportunities+and+collaborations" alt="Thanks" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&text=&fontSize=0&animation=fadeIn" alt="Footer"/>
+  <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,1&height=100&section=footer&text=&fontSize=0&animation=fadeIn" alt="Footer"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
 </div>
