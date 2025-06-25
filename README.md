@@ -79,35 +79,35 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.7; color: #ccc;">
 
-### 🚀 Current Focus
-- Developing modern web applications  
-- Researching AI and machine learning  
-- Creating immersive games with Unity and Unreal  
-- Building intuitive mobile apps  
+<div style="flex: 1; min-width: 300px;">
 
-### 💡 Interests  
-- Full-stack software engineering  
-- Artificial intelligence and data science  
-- Game design and interactive media  
-- Clean and user-focused UI/UX  
+<p>
+I'm currently focused on building innovative and high-performance web applications with modern tools and frameworks. My journey includes deep exploration in artificial intelligence, machine learning, and creating immersive experiences in both mobile and game development using platforms like Unity and Unreal Engine.
+</p>
 
-</td>
-<td valign="top" width="50%">
+<p>
+With a strong foundation in software engineering, I aim to bridge creativity and technology to deliver impactful solutions that blend usability with intelligence.
+</p>
 
-### 📌 Quick Snapshot  
-- Student at **Plymouth University**  
-- Passionate full-stack developer  
-- Game development hobbyist  
-- Exploring intelligent systems and ML  
-- Lifelong learner in tech and design  
+</div>
 
-</td>
-</tr>
-</table>
+<div style="flex: 1; min-width: 300px;">
+
+<p>
+As a student at Plymouth University, I specialize in full-stack software development and have a keen interest in intelligent systems and digital design. I spend my time researching emerging technologies and crafting user-centric interfaces that enhance digital interaction.
+</p>
+
+<p>
+Whether it's designing seamless user experiences or engineering complex backend systems, I’m passionate about learning and pushing boundaries in every project I undertake.
+</p>
+
+</div>
+
+</div>
+
+
 
 ---
 
@@ -232,39 +232,6 @@
 
 ---
 
-## Development Philosophy
-
-<div align="center">
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/Core%20Values-2563EB?style=for-the-badge&logoColor=white" alt="Core Values"/>
-        <br/><br/>
-        <strong>Continuous Learning</strong><br/>
-        <strong>Innovation First</strong><br/>
-        <strong>Quality Code</strong><br/>
-        <strong>User Experience</strong><br/>
-      </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/Current%20Focus-059669?style=for-the-badge&logoColor=white" alt="Current Focus"/>
-        <br/><br/>
-        <strong>AI & Machine Learning</strong><br/>
-        <strong>Advanced React</strong><br/>
-        <strong>Game Development</strong><br/>
-        <strong>Full-Stack Solutions</strong><br/>
-      </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/Mission-f59e0b?style=for-the-badge&logoColor=white" alt="Mission"/>
-        <br/><br/>
-        <strong>Build the Future</strong><br/>
-        <strong>Solve Real Problems</strong><br/>
-        <strong>Create Impact</strong><br/>
-        <strong>Inspire Innovation</strong><br/>
-      </td>
-    </tr>
-  </table>
-
   <div style="margin: 40px 0;">
     <h3 style="color: #1f2937; font-weight: 600; margin-bottom: 15px;">Building the future, one line of code at a time</h3>
     <p style="color: #6b7280; font-size: 16px; max-width: 600px; margin: 0 auto;">
@@ -282,7 +249,7 @@
   
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,1&height=100&section=footer&text=&fontSize=0&animation=fadeIn" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&customColorList=0,2,1&height=100&section=footer&text=&fontSize=0&animation=fadeIn" alt="Footer"/>
   
   <img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
