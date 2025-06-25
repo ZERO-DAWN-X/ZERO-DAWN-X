@@ -1,7 +1,7 @@
 <div align="center">
   
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=Welcome%20To%20My%2Space&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,1&height=120&section=header&text=Welcome%20To%20My%20Space&fontSize=40&fontColor=ffffff&animation=fadeIn" 
   alt="Header" 
   width="1000"
 />
