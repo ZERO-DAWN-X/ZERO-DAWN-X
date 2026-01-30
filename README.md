@@ -5,10 +5,6 @@
   width="100%" 
   alt="Cover Image"
 />
-
-<br/>
-
-# ZERO DAWN X
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Research;Full-Stack+Software+Development;Technology+Innovation+and+Research;Building+Intelligent+Solutions" alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ZERO-DAWN-X&label=VIEWS&color=dc2626&style=flat-square)](https://github.com/ZERO-DAWN-X)
