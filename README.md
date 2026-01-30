@@ -87,9 +87,6 @@ As a student at Plymouth University, I specialize in full-stack software develop
 
 <div align="center">
 
-<!-- GitHub Stats Cards (includes private repos) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=ef4444&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=dc2626&sideNums=ef4444&dates=888888" width="100%" alt="Streak Stats" />
-
 <br/>
 
 <!-- Activity Graph -->
@@ -100,7 +97,22 @@ As a student at Plymouth University, I specialize in full-stack software develop
 <!-- Contribution Calendar -->
 <img src="https://ghchart.rshah.org/dc2626/ZERO-DAWN-X" width="100%" alt="Contribution Graph" />
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Repos-207-dc2626?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/ZERO-DAWN-X?style=for-the-badge&logo=github&logoColor=white&color=ef4444" alt="Total Stars"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Forks-dynamic-f87171?style=for-the-badge&logo=git&logoColor=white" alt="Total Forks"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Commits-8907-fca5a5?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
