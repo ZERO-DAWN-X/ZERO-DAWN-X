@@ -90,7 +90,7 @@ As a student at Plymouth University, I specialize in full-stack software develop
 <div align="center">
 
 <!-- GitHub Stats Cards (includes private repos) -->
-<img src="https://streak-stats.demolab.com?user=ZERO-DAWN-X&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=ef4444&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=dc2626&sideNums=ef4444&dates=888888&border_radius=5" width="100%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=ZERO-DAWN-X&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=ef4444&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=dc2626&sideNums=ef4444&dates=888888&border_radius=5" width="98%" alt="Streak Stats" />
 
 <br/>
 
@@ -100,7 +100,7 @@ As a student at Plymouth University, I specialize in full-stack software develop
 <br/>
 
 <!-- Contribution Calendar -->
-<img src="https://ghchart.rshah.org/dc2626/ZERO-DAWN-X" width="100%" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/dc2626/ZERO-DAWN-X" width="98%" alt="Contribution Graph" />
 
 
 <br/>
