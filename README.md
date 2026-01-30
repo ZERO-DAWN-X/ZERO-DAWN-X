@@ -35,15 +35,10 @@ As a student at Plymouth University, I specialize in full-stack software develop
 
 <div align="center">
 
-### <span style="color: #ffffff;">**AI & Machine Learning Research**</span>
+### AI & Machine Learning Research
 
-</div>
+![Current Research](https://img.shields.io/badge/Current%20Research-2563eb?style=flat-square&logoColor=white) ![Advanced Neural Networks](https://img.shields.io/badge/Advanced%20Neural%20Networks-3b82f6?style=flat-square&logoColor=white) ![Deep Learning Architectures](https://img.shields.io/badge/Deep%20Learning%20Architectures-60a5fa?style=flat-square&logoColor=white) ![Computer Vision & NLP](https://img.shields.io/badge/Computer%20Vision%20%26%20NLP-3b82f6?style=flat-square&logoColor=white) ![AI-Powered Applications](https://img.shields.io/badge/AI--Powered%20Applications-2563eb?style=flat-square&logoColor=white) ![Innovation Goals](https://img.shields.io/badge/Innovation%20Goals-2563eb?style=flat-square&logoColor=white) ![Next-Gen AI Solutions](https://img.shields.io/badge/Next--Gen%20AI%20Solutions-3b82f6?style=flat-square&logoColor=white) ![Human-AI Collaboration](https://img.shields.io/badge/Human--AI%20Collaboration-60a5fa?style=flat-square&logoColor=white) ![Ethical AI Development](https://img.shields.io/badge/Ethical%20AI%20Development-3b82f6?style=flat-square&logoColor=white) ![Future Tech Exploration](https://img.shields.io/badge/Future%20Tech%20Exploration-2563eb?style=flat-square&logoColor=white)
 
-<div align="center">
-  
-<span style="color: #ef4444;">**Current Research**</span> • <span style="color: #f87171;">**Advanced Neural Networks**</span> • <span style="color: #fca5a5;">**Deep Learning Architectures**</span> • <span style="color: #f87171;">**Computer Vision & NLP**</span> • <span style="color: #ef4444;">**AI-Powered Applications**</span>
-
-<span style="color: #ef4444;">**Innovation Goals**</span> • <span style="color: #f87171;">**Next-Gen AI Solutions**</span> • <span style="color: #fca5a5;">**Human-AI Collaboration**</span> • <span style="color: #f87171;">**Ethical AI Development**</span> • <span style="color: #ef4444;">**Future Tech Exploration**</span>
 
 </div>
 
