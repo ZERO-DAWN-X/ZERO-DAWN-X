@@ -5,6 +5,7 @@
   width="100%" 
   alt="Cover Image"
 />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=900&lines=AI+and+Machine+Learning+Research;Full-Stack+Software+Development;Technology+Innovation+and+Research;Building+Intelligent+Solutions" alt="Typing Animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ZERO-DAWN-X&label=VIEWS&color=dc2626&style=flat-square)](https://github.com/ZERO-DAWN-X)
@@ -21,51 +22,48 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+
 ### About Me
 I am currently focused on building innovative and high-performance web applications with modern tools and frameworks. My journey includes deep exploration in artificial intelligence, machine learning, and creating immersive experiences in both mobile and game development using platforms like Unity and Unreal Engine.
 
 As a student at Plymouth University, I specialize in full-stack software development with a keen interest in intelligent systems and digital design. I spend my time researching emerging technologies and crafting user-centric interfaces that enhance digital interaction.
 
+<br clear="right"/>
+
 ---
+
+<div align="center">
 
 ### AI & Machine Learning Research
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Current Research</strong><br/>
-      • Advanced Neural Networks<br/>
-      • Deep Learning Architectures<br/>
-      • Computer Vision & NLP<br/>
-      • AI-Powered Applications
-    </td>
-    <td width="50%" valign="top">
-      <strong>Innovation Goals</strong><br/>
-      • Next-Gen AI Solutions<br/>
-      • Human-AI Collaboration<br/>
-      • Ethical AI Development<br/>
-      • Future Tech Exploration
-    </td>
-  </tr>
-</table>
 
----
+</div>
+
+<div align="center">
+  
+**Current Research** • Advanced Neural Networks • Deep Learning Architectures • Computer Vision & NLP • AI-Powered Applications
+
+**Innovation Goals** • Next-Gen AI Solutions • Human-AI Collaboration • Ethical AI Development • Future Tech Exploration
+
+</div>
 
 ### Technical Ecosystem
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Intelligence & Data</h4>
-      <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code><br/><br/>
-      <code>MongoDB</code> <code>MySQL</code> <code>Firebase</code> <code>AWS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Engineering & Creative</h4>
-      <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>React</code><br/><br/>
-      <code>Unity</code> <code>Unreal Engine</code> <code>Flutter</code> <code>Vue.js</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Technical Ecosystem Header"/>
+</div>
+
+<div align="center">
+  <h4>Intelligence & Data</h4>
+  <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code> <code>MongoDB</code> <code>MySQL</code> <code>Firebase</code> <code>AWS</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>Engineering & Creative</h4>
+  <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>Unity</code> <code>Unreal Engine</code> <code>Flutter</code> <code>Vue.js</code>
+</div>
 
 ---
 
@@ -83,6 +81,9 @@ As a student at Plymouth University, I specialize in full-stack software develop
 
 <div align="center">
 
+<!-- GitHub Stats Cards (includes private repos) -->
+<img src="https://streak-stats.demolab.com?user=ZERO-DAWN-X&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=dc2626&ring=dc2626&fire=ef4444&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=dc2626&sideNums=ef4444&dates=888888&border_radius=5" width="100%" alt="Streak Stats" />
+
 <br/>
 
 <!-- Activity Graph -->
@@ -93,6 +94,10 @@ As a student at Plymouth University, I specialize in full-stack software develop
 <!-- Contribution Calendar -->
 <img src="https://ghchart.rshah.org/dc2626/ZERO-DAWN-X" width="100%" alt="Contribution Graph" />
 
+
+<br/>
+
+<!-- Custom Stats Display -->
 <table>
   <tr>
     <td align="center">
@@ -109,6 +114,10 @@ As a student at Plymouth University, I specialize in full-stack software develop
     </td>
   </tr>
 </table>
+
+
+
+
 </div>
 
 ---
