@@ -80,6 +80,16 @@ As a student at Plymouth University, I specialize in full-stack software develop
 
 ---
 
+### Certifications & Skill Badges
+
+<div align="center">
+  <a href="https://www.credly.com/earner/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Create%20Your%20First%20Gemini%20Enterprise%20Application-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Gemini Enterprise Badge" />
+  </a>
+</div>
+
+---
+
 ### Analytics & Performance
 
 <div align="center">
